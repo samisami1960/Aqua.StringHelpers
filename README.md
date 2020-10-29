@@ -74,6 +74,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 61. [Coalesce](#Coalesce)
 62. [GetFirstNullOrEmpty](#GetFirstNullOrEmpty)
 
+
 # Features and Methods
 ### IsNullOrEmpty
 IsNullOrEmpty is an extension method, equivalent for the traditional ``` string.IsNullOrEmpty() ``` static method. Returns true if the string examined is null or empty, otherwise returns false.
